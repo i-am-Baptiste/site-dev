@@ -268,10 +268,13 @@ section { scroll-margin-top: 84px; }
   margin-bottom: 12px;
 }
 
-.activity-icon svg {
+.activity-icon svg,
+.activity-icon img {
   width: 42px;
   height: 42px;
   display: block;
+  border-radius: 50%;
+  object-fit: cover;
 }
 
 .icon-meeple { color: var(--green); }
