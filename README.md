@@ -22,5 +22,4 @@ Puis visitez `http://localhost:8000`.
 
 ## À personnaliser
 
-- L'adresse email de contact dans `index.html` est un **placeholder** (`contact@fake-queimada.org`) à remplacer par la vraie adresse.
 - Le compte Instagram n'est pas encore lié (pas encore actif).
