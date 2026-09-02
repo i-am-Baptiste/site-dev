@@ -20,6 +20,3 @@ Puis visitez `http://localhost:8000`.
 - `app.js` — menu mobile et petites interactions
 - `assets/logo.png` — logo de l'association
 
-## À personnaliser
-
-- Le compte Instagram n'est pas encore lié (pas encore actif).
